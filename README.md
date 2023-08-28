@@ -18,7 +18,7 @@ I was tasked with creating a QR code component for a website, using the HTML and
 
 ### Screenshot
 
-![](/solution/imgs/solution_screenshot.png)
+![main/solution_screenshot.png]
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
